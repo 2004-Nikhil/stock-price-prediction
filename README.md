@@ -12,9 +12,7 @@ Welcome to the Stock Price Prediction project! This project leverages Jupyter No
 ├── notebooks/
 │   └── Stock_price_prediction.ipynb
 ├── README.md
-├── requirements.txt
-└── .devcontainer/
-    └── devcontainer.json
+└── requirements.txt
 ```
 
 ### Files and Directories
