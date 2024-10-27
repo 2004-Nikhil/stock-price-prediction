@@ -10,8 +10,7 @@ Welcome to the Stock Price Prediction project! This project leverages Jupyter No
 │   └── stock_data.csv
 ├── LICENSE
 ├── notebooks/
-│   ├── Stock_price_prediction.ipynb
-│   └── STOCK.ipynb
+│   └── Stock_price_prediction.ipynb
 ├── README.md
 ├── requirements.txt
 └── .devcontainer/
@@ -26,8 +25,6 @@ Welcome to the Stock Price Prediction project! This project leverages Jupyter No
 - **LICENSE**: The MIT License for the project.
 - **notebooks/**: Contains Jupyter Notebooks for analysis and prediction.
   - `Stock_price_prediction.ipynb`: Main notebook for stock price prediction.
-  - `STOCK.ipynb`: Additional notebook for stock analysis.
 - **README.md**: This file, providing an overview of the project.
 - **requirements.txt**: Lists the Python dependencies required for the project.
 - **.devcontainer/**: Configuration for development container.
-  - `devcontainer.json`: Defines the development container settings.
